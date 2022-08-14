@@ -16,8 +16,10 @@ Conocer las características de los inductores, como sus tipos, análisis en ser
 
 •	Identificar las posibles fórmulas que permitan resolver los ejercicios planteados de manera clara y precisa.
 
-2. Marco Teorico:
+2.Marco Teorico:
 
-3.
+
+3.Resolucion de ejercicios propuest:
+
 
 
