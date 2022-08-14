@@ -19,7 +19,61 @@ Conocer las características de los inductores, como sus tipos, análisis en ser
 2.Marco Teorico:
 
 
-3.Resolucion de ejercicios propuest:
+3.Resolucion de ejercicios propustos:
+
+Capitulos 13 y 14
+
+2. Convierta los siguientes valores en microhenries:
+
+a) 300mH=300000µH
+
+b) 0.08H=80000µH
+
+c) 5mH=5000µH
+
+d) 0.00045H=450µH
+
+4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?
+
+Vind=L(di/dt)
+
+Vind/L=di/dt
+
+50V/25mH=di/dt
+
+di/dt=2000A/s
+
+6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10×10^(-5) m^(2) y tiene longitud de 0.05 m? La permeabilidad del núcleo es de 1.2×10^(-6) H/m .
+
+L=(N^2µA)/l
+
+√((L×l)/(µA))=N
+
+N=√((L×l)/(µA))=√(((30mH)(0.05m))/((1.2×10^(-6) H/m)(10×10^(-5) m^(2))))=√((1.5×10^(-3))/(1.2×10^(-10)))
+
+N=√12500000=3535.534
+
+8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.
+
+a) L=(N^2µA)/l,donde N=500,l=0.02m,A=3×10^(-6) m^(2),µ=0.2×10^(-3) H/m
+
+L=(N^2µA)/l=((500)^2×(0.2×10^(-3) H/m)(3×10^(-6) m^(2)))/0.02m
+
+L=0.75mH
+
+b) L=(N^2µA)/l,donde N=1000,l=0.02m,A=3×10^(-6) m^(2),µ=0.2×10^(-3) H/m
+
+L=(N^2µA)/l=((1000)^2×(0.2×10^(-3) H/m)(3×10^(-6) m^(2)))/0.02m
+
+L=30mH
+
+La inductancia del inductor 1 es menor en comparación al inductor 2 que tiene el doble de vueltas, es decir, que mientras más vueltas haya en el inductor mayor será la inductancia y a su vez mientras menor sea la cantidad de vueltas menor será la inductancia.
+
+10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4π×10^(-6) H/m). Determine la inductancia de la bobina que se formó. 
+
+![image](https://user-images.githubusercontent.com/105687375/184559600-a3f034a3-ab02-41c7-b0b0-47d1ec5bb076.png)
+
+
 
 
 
