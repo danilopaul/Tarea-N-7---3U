@@ -73,6 +73,56 @@ La inductancia del inductor 1 es menor en comparación al inductor 2 que tiene e
 
 ![image](https://user-images.githubusercontent.com/105687375/184559600-a3f034a3-ab02-41c7-b0b0-47d1ec5bb076.png)
 
+l=3.5cm=0.035m
+
+A=πr^2=π〖(3.85×〖10〗^(-3) m)〗^2=4.657×〖10〗^(-5) m^2
+
+L=(N^2µA)/l=((100)^2×(4π×〖10〗^(-6)  H/m)(4.657×〖10〗^(-5) m^2))/0.035m
+
+L=0.167mH
+
+12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?
+
+LT=L1+L2+LA
+
+50mH=10mH+22mH+LA
+
+LA=50mH-10mH-22mH
+
+LA=18mH     →    inductancia adicional 
+
+14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/105687375/184559663-15de27a2-5f75-4e4d-b1f0-2fb49194e695.png)
+
+Interruptor 1:
+
+LT=L1+L2+L4=330µH+680µH+800µH=1810µH
+
+Interruptor 2:
+
+LT=L2+L4=680µH+800µH=1480µH
+
+Interruptor 3:
+
+LT=L4=800µH
+
+Interruptor 4:
+
+LT=L3+L4=1500µH+800µH=2300µH
+
+16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
+
+LT=1/(1/L1+1/L2),LT=8mH,L1=12mH
+
+1/L1+1/L2=1/LT
+
+L2=1/(1/LT-1/L1)=1/(1/8-1/12)=1/(1/24)=24mH    →     Se necesita un inductor de este valor
+
+
+
+
+
 
 
 
