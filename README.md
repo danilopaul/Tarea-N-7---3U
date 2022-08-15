@@ -274,6 +274,116 @@ X_L=2πfL=2π(2.5∙〖10〗^3 )(40∙〖10〗^(-6) )=0.6283 Ω
 
 I_rms=Vrms/XL=2.1/0.6283=3.34 A
 
+34. En la figura 13-51, determine la potencia reactiva.
+
+![image](https://user-images.githubusercontent.com/105687375/184560251-462e9d9b-0f2b-4551-9718-e7049947d939.png)
+
+Solución
+
+	Hallar la reactancia inductiva y los valores de corriente
+	
+L_2eq=((L_2*L_3)/(L_2+L_3 ))=13.33 µH
+
+L_T=L_1+L_2eq=50+13.33=63.33 µH
+
+X_L=2πF_L=2π(2.5*〖10〗^3 Hz)(0.01mH)=50π=157.08 Ω
+
+I=V_S/X_L =(10 V)/(157.08 Ω)=63.6 mA
+
+	Aplicar 
+	
+X_L=〖I^2*X〗_L=(63.6 mA)^2*(157.08 Ω)=0.6353 VAR
+
+Ejercicios capítulo 14
+
+2. Determine el coeficiente de acoplamiento cuando LM = 1 µH, L1 = 8 µH, y L2 = 2 µH.
+
+		L_M=k*√(L_1*L_2 )
+
+L_M/√(L_1*L_2 )=k
+
+(1µH)/√(8µH*2µH)=k
+
+k=(1µH)/(4µH)=0.25
+
+4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
+
+		n=N_sec/N_pri 
+
+N_pri*n=N_sec
+
+N_sec=250*2=500 vueltas
+
+6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
+
+V_sec=n*V_pri
+
+n=V_sec/V_pri 
+
+n=(720 V)/(240 V)=3 vueltas
+
+8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
+
+V_sec=n*V_pri
+
+V_sec/n=V_pri
+
+V_pri=(60 V)/10=6 V
+
+10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?
+
+V_sec=n*V_pri
+
+V_sec=0.2*1200 V
+
+V_sec=240 V
+
+12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+
+![image](https://user-images.githubusercontent.com/105687375/184560427-f680b42a-ae5c-431a-badf-ddd7d28985ed.png)
+
+V_sec=n*V_pri
+
+V_sec=0.05*120 V
+
+V_sec=6 V
+
+![image](https://user-images.githubusercontent.com/105687375/184560444-11ad90a5-071e-40d4-b653-b1dc36a06914.png)
+
+V_sec=n*V_pri
+
+V_sec=2*12 V
+
+V_sec=24 V
+
+Carga del devanado secundario
+
+14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
+
+![image](https://user-images.githubusercontent.com/105687375/184560474-9c0457e8-36fb-4353-b0a9-1077ddcfe8f3.png)
+
+I_sec=(1/n)*I_pri
+
+I_sec=(1/3)*100 mA=33 mA
+
+R_pri=V_pri/I_pri 
+
+R_pri=20V/(0.1 A)=200Ω
+
+R_pri=(1/n)^2*R_L
+
+R_L=R_pri/(1/n)^2 
+
+R_L=(200 Ω)/(1/n)^2 =1800 Ω
+
+
+
+
+
+
+
+
+
 
 
 
