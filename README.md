@@ -489,3 +489,4 @@ Vsec=(1)(240)=240V
 
 6.Bibliografia:
 
+Floyd, TL (2007). Principios de Circuitos Eléctricos. CDMX: Persona Educación
