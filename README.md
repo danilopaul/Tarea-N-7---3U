@@ -376,27 +376,116 @@ R_L=R_pri/(1/n)^2
 
 R_L=(200 Ω)/(1/n)^2 =1800 Ω
 
+Carga reflejada
 
+16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
 
+![image](https://user-images.githubusercontent.com/105687375/184560615-7d81a8b7-dac4-4ea2-b58e-443d450ca5dc.png)
 
+Rpri=〖(1/n)〗^2 Rl=(1/5)^2 (680)=27.2Ω
 
+Igualación de impedancia
 
+18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia
+máxima al altavoz de 4 Ω
 
+![image](https://user-images.githubusercontent.com/105687375/184560639-64323969-a573-4131-a793-231d7393152b.png)
 
+n=√(RL/Rpri)=√(4Ω/16Ω)=0.5
 
+Características de un transformador no ideal
 
+22. ¿Cuál es la eficiencia del transformador en el problema 21?
 
+Datos 
 
+Pentrada = 100W
 
+Psalidad = 94.5W
 
+n=(Psal/Pent)100%
 
+n=(100W/94.5W)100%=94.5%
 
+24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de
+ca. El voltaje secundario es de 600 V.
 
+(a) ¿Cuál es la corriente máxima en la carga?
 
+ILi1=Psec/Vsec=5kVA/120=0.042kA=42 A
 
+ILi2=Psec/Vsec=5kVA/600=0.008kA=8 A
 
+La corriente máxima en la carga es de 42A
 
+(b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
 
+Il1= 42A
 
+V=120
 
+Rli1=V/IL=120/42=2.86 Ω
+
+Il2=8A
+
+V=600V
+
+Rli2=V/IL=600/8=72.03 Ω
+
+El valor de RL mas pequeño es de 2.86 Ω
+
+26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.
+
+(a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
+
+Vsec=nVpri
+
+n=Vsec/Vpri=120V/2400V = 0.05
+
+(b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
+I=Psec/Vsec
+
+I=5kVA/2400V=0.002kA=2A
+
+Transformadores con tomas y devanados múltiples
+
+28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma
+del devanado secundario al devanado primario
+
+![image](https://user-images.githubusercontent.com/105687375/184560702-09428b7c-39be-4a0f-b625-e97d6a2de061.png)
+
+Vsec=nVpri
+
+n1=V1/Vpri=24V/12V=2
+
+n3=V1/Vpri=6V/12V=0.5
+
+n3=V1/Vpri=3V/12V=0.25
+
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios
+para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
+
+![image](https://user-images.githubusercontent.com/105687375/184560740-f9a71adf-eefe-48c6-bd33-791990af2d6b.png)
+
+Vsec=nVpri
+
+Vsec=(0.1)(240)=24V
+
+Vsec=(0.2)(240)=48V
+
+Vsec=(0.5)(240)=120V
+
+Vsec=(1)(240)=240V
+
+4.Video:
+
+5.Coclusiones:
+
+•	El inductor es una bobina de alambre, el cual está basado en el principio de inducción electromagnética, esta inductancia es una propiedad de una bobina de alambre que se refiere a la oposición del mismo a un cambio de corriente, es decir, es una medida de la capacidad que tiene la bobina para establecer un voltaje inducido como respuesta aun cambio en su corriente, ya que dicho voltaje actúa en dirección opuesta al cambio de corriente.
+
+•	 En cuanto a un transformador, este se basa en el principio de la inductancia mutua, la cual se cumple cuando dos o más bobinas están muy cerca una de la otra, es decir que un trasformador está compuesto de dos bobinas que están acopladas de manera electromagnética por su inductancia mutua, para la transferencia de potencia de un devanado al otro, además de que la dirección de los devanados determina las polaridades relativas de los voltajes.
+
+•	Mediante fórmulas y ecuaciones que relacionan los datos desconocidos, no permite desarrollar los problemas planteados de la manera más adecuada, como es el caso para calcular el voltaje primario, secundario, resistencia y corriente de un circuito de corriente alterna, tanto para los inductores como para los transformadores.
+
+6.Bibliografia:
 
