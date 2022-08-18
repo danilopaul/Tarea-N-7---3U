@@ -18,8 +18,9 @@ Conocer las características de los inductores, como sus tipos, análisis en ser
 
 2.Marco Teorico:
 
-![image](https://user-images.githubusercontent.com/105684550/185278789-5640a4ea-0afe-4f6a-aa6e-141ed48338e4.png)
-![image](https://user-images.githubusercontent.com/105684550/185278771-de55a5c7-7b19-4cb2-9b3b-de8ef4680a59.png)
+JAJAJAJAJAJA HABLA BIEN OEEEEEE
+CASI BORRO TODOS LOS EJERCICIOS
+
 
 3.Resolucion de ejercicios propustos:
 
