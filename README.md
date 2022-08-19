@@ -482,6 +482,8 @@ Vsec=(1)(240)=240V
 
 4.Video:
 
+https://youtu.be/s7PgrsAlW1Q
+
 5.Coclusiones:
 
 •	El inductor es una bobina de alambre, el cual está basado en el principio de inducción electromagnética, esta inductancia es una propiedad de una bobina de alambre que se refiere a la oposición del mismo a un cambio de corriente, es decir, es una medida de la capacidad que tiene la bobina para establecer un voltaje inducido como respuesta aun cambio en su corriente, ya que dicho voltaje actúa en dirección opuesta al cambio de corriente.
